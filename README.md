@@ -1,4 +1,5 @@
 # Student Performance Prediction Project
+![Student Performance](images/5853.jpg "Student Performance")
 
 ## Overview
 Describe the purpose and goals of your project briefly. What problem are you trying to solve using machine learning?
